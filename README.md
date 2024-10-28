@@ -1,5 +1,5 @@
 # 💫 About Me:
-With a background as an IT specialist, I began my career in web <br>development, gaining experience in Java, JavaScript, CSS, HTML and PHP.<br>I later worked on mobile app development, focusing on back-end and <br>database management with SQL.<br><br>After a rewarding period coaching competitive rowing, where I <br>collaborated with athletes at national and international levels, I’ve <br>now returned to IT, updating my skills through Codecademy <br>with courses in C#, Data Analytics, and Full Stack Engineering.<br><br>I’m currently seeking new IT opportunities where I can apply my <br>technical skills and the team-focused approach gained from <br>my coaching experience.
+With a background as an IT specialist, I began my career in web development, gaining experience in Java, JavaScript, CSS, HTML and PHP.<br>I later worked on mobile app development, focusing on back-end and database management with SQL.<br><br>After a rewarding period coaching competitive rowing, where I collaborated with athletes at national and international levels, I’ve now returned to IT, updating my skills through Codecademy with courses in C#, Data Analytics, and Full Stack Engineering.<br><br>I’m currently seeking new IT opportunities where I can apply my technical skills and the team-focused approach gained from my coaching experience.
 
 
 ## 🌐 Socials:
